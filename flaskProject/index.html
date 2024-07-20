@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Invio Email</title>
+</head>
+<body>
+    <h1>Invio Email</h1>
+    <form action="/send_email" method="POST">
+        <label for="recipient">Destinatario:</label>
+        <input type="email" name="recipient" required><br><br>
+
+        <label for="subject">Soggetto:</label>
+        <input type="text" name="subject" required><br><br>
+
+        <label for="body">Corpo del Messaggio:</label><br>
+        <textarea name="body" rows="5" required></textarea><br><br>
+
+        <input type="submit" value="Invia Email">
+    </form>
+</body>
+</html>

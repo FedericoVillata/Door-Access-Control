@@ -1,0 +1,72 @@
+{
+    "nome": {
+        "re_format": "^[A-Za-zÀ-ÖØ-öø-ÿ'-]+$",
+        "flag": true,
+        "suggestion": "Mario"
+    },
+    "cognome": {
+        "re_format": "^[A-Za-zÀ-ÖØ-öø-ÿ'-]+$",
+        "flag": true,
+        "suggestion": "Rossi"
+    },
+    "username": {
+        "re_format": "^[A-Za-z0-9_\\-]{3,16}$",
+        "flag": true,
+        "suggestion": "user_123"
+    },
+    "fiscal_code": {
+        "re_format": "^[A-Z]{6}[0-9]{2}[A-Z][0-9]{2}[A-Z][0-9]{3}[A-Z]$",
+        "flag": true,
+        "suggestion": "RSSMRA85M01H501Z"
+    },
+    "phone_number": {
+        "re_format": "^\\+?\\d{10,15}$",
+        "flag": true,
+        "suggestion": "+391234567890"
+    },
+    "RFID_number": {
+        "re_format": "^\\+?\\d{10,15}$",
+        "flag": true,
+        "suggestion": "123456789011"
+    },
+    "mail": {
+        "re_format": "^[\\w\\.-]+@[\\w\\.-]+\\.\\w+$",
+        "flag": true,
+        "suggestion": "example@example.com"
+    },
+    "birth_date": {
+        "re_format": "^\\d{2}/\\d{2}/\\d{4}$",
+        "flag": true,
+        "suggestion": "01/01/2000"
+    },
+    "gender": {
+        "re_format": "^(male|female|maschio|femmina|other)$",
+        "flag": true,
+        "suggestion": "male|female|maschio|femmina|other"
+    },
+    "companyName": {
+        "re_format": "^[A-Za-z0-9À-ÖØ-öø-ÿ'\\s-]+$",
+        "flag": true,
+        "suggestion": "Example Company"
+    },
+    "VAT_number": {
+        "re_format": "^[A-Z0-9]{8,12}$",
+        "flag": true,
+        "suggestion": "EU12345678"
+    },
+    "PEC": {
+        "re_format": "^[\\w\\.-]+@[\\w\\.-]+\\.\\w+$",
+        "flag": true,
+        "suggestion": "exampl@pec.com"
+    },
+    "subscription": {
+        "re_format": "^(basic|premium|enterprise)$",
+        "flag": true,
+        "suggestion": "basic"
+    },
+    "country": {
+        "re_format": "^[A-Za-z\\s]+$",
+        "flag": true,
+        "suggestion": "Italy"
+    }
+}

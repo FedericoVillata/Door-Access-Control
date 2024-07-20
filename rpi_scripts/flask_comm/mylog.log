@@ -1,0 +1,75 @@
+2024-06-19 12:21:31 - DEBUG - True
+2024-06-19 12:21:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:21:31 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 400 57
+2024-06-19 12:22:30 - DEBUG - True
+2024-06-19 12:22:30 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:22:30 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 400 57
+2024-06-19 12:23:56 - DEBUG - True
+2024-06-19 12:23:56 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:23:56 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 400 57
+2024-06-19 12:24:06 - DEBUG - True
+2024-06-19 12:24:06 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:24:06 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 400 57
+2024-06-19 12:24:48 - DEBUG - True
+2024-06-19 12:24:48 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:24:48 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 400 57
+2024-06-19 12:25:29 - DEBUG - True
+2024-06-19 12:25:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:25:29 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 400 57
+2024-06-19 12:26:46 - DEBUG - True
+2024-06-19 12:26:46 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-19 12:26:46 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 404 53
+2024-06-21 11:59:28 - DEBUG - True
+2024-06-21 11:59:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 11:59:30 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 404 79
+2024-06-21 12:01:44 - DEBUG - True
+2024-06-21 12:01:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:01:49 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 98
+2024-06-21 12:02:23 - DEBUG - True
+2024-06-21 12:02:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:02:27 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 83
+2024-06-21 12:02:50 - DEBUG - True
+2024-06-21 12:02:50 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:02:55 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 98
+2024-06-21 12:04:21 - DEBUG - True
+2024-06-21 12:04:21 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:04:25 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 83
+2024-06-21 12:05:00 - DEBUG - True
+2024-06-21 12:05:00 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:05:04 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 83
+2024-06-21 12:06:22 - DEBUG - True
+2024-06-21 12:06:22 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:06:26 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 98
+2024-06-21 12:11:15 - DEBUG - True
+2024-06-21 12:11:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:11:19 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 102
+2024-06-21 12:18:14 - DEBUG - True
+2024-06-21 12:18:14 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:18:19 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 83
+2024-06-21 12:19:32 - DEBUG - True
+2024-06-21 12:19:32 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:19:36 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 82
+2024-06-21 12:21:09 - DEBUG - True
+2024-06-21 12:21:09 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:21:13 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 102
+2024-06-21 12:21:31 - DEBUG - True
+2024-06-21 12:21:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:21:35 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 82
+2024-06-21 12:24:49 - DEBUG - True
+2024-06-21 12:24:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:24:53 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 102
+2024-06-21 12:27:15 - DEBUG - True
+2024-06-21 12:27:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:27:19 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 98
+2024-06-21 12:29:18 - DEBUG - True
+2024-06-21 12:29:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:29:23 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 102
+2024-06-21 12:29:41 - DEBUG - True
+2024-06-21 12:29:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:29:45 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 102
+2024-06-21 12:34:25 - DEBUG - True
+2024-06-21 12:34:25 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:34:29 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 102
+2024-06-21 12:34:37 - DEBUG - True
+2024-06-21 12:34:37 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-06-21 12:34:41 - DEBUG - http://127.0.0.1:5000 "POST /api/rpi_token HTTP/1.1" 200 98
